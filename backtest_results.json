@@ -1,0 +1,30 @@
+{
+    "1_month": {
+        "total_return": 0.0,
+        "win_rate": 0,
+        "profit_factor": 1,
+        "max_drawdown": 0,
+        "total_trades": 0
+    },
+    "3_months": {
+        "total_return": 0.0,
+        "win_rate": 0,
+        "profit_factor": 1,
+        "max_drawdown": 0,
+        "total_trades": 0
+    },
+    "6_months": {
+        "total_return": 0.0,
+        "win_rate": 0,
+        "profit_factor": 1,
+        "max_drawdown": 0,
+        "total_trades": 0
+    },
+    "1_year": {
+        "total_return": 0.0,
+        "win_rate": 0,
+        "profit_factor": 1,
+        "max_drawdown": 0,
+        "total_trades": 0
+    }
+}

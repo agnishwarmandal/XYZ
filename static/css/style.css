@@ -1,0 +1,59 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.signal-info {
+    padding: 15px;
+}
+
+.signal-info p {
+    margin-bottom: 10px;
+}
+
+#market-status {
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+#market-status.open {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+#market-status.closed {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table th {
+    background-color: #f8f9fa;
+    border-top: none;
+}
+
+.positive-return {
+    color: #28a745;
+}
+
+.negative-return {
+    color: #dc3545;
+}
+
+#performance-plot {
+    height: 400px;
+    width: 100%;
+}
